@@ -47,9 +47,9 @@ Determine how casual riders can be converted into annual members.
 
 **Files in this Repository:**
 
-* Cyclistic Cleaned Data.xlsx
+* Download Cleaned Data Set https://drive.google.com/file/d/1b8NTOFsFrk6L4RFAA0L3BiH-zxgBDbfc/view?usp=sharing (Download the dataset as this can't be uploaded to repository due to exceeding size limit)
 * Cyclistic\_SQL\_Queries.sql
-* Cyclistic PowerBI report.pbix
+* Download Power BI Report (Zip) https://drive.google.com/file/d/15O24p6vxOpx-HAM6ol01SjCymAcvzejs/view?usp=sharing (Extract the ZIP file to access the .pbix report as this can't be uploaded due to exceeding size limit)
 * Cyclistic Bike Share Case Study.pdf
 * Google Data Analytics Certificate.pdf
 
@@ -62,6 +62,7 @@ Determine how casual riders can be converted into annual members.
 **Outcome:**
 
 Recommendations can help Cyclistic increase membership revenue by aligning offers with riding patterns.
+
 
 
 
